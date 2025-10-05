@@ -1,0 +1,13 @@
+# LiveKit Agents Dependencies
+# Generated from pyproject.toml for venv compatibility
+
+# Core dependencies
+livekit-agents[google,turn-detector,silero]~=1.2
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+
+# Optional: If you need other provider integrations
+# livekit-plugins-openai
+# livekit-plugins-deepgram
+# livekit-plugins-cartesia
+# livekit-plugins-elevenlabs

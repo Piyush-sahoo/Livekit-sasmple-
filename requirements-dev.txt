@@ -1,0 +1,9 @@
+# Development dependencies
+-r requirements.txt
+
+# Testing
+pytest
+pytest-asyncio
+
+# Linting and formatting
+ruff
